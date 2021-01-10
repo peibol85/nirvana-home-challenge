@@ -1,0 +1,5 @@
+{
+    "deductible": 1000,
+    "stop_loss": 10000,
+    "oop_max": 6000
+}
